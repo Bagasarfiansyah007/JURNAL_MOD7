@@ -1,22 +1,25 @@
 ﻿<Properties StartupConfiguration="{D507F141-0725-4653-BA38-4E9DAE91482C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="jurnal_mod7/.gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Downloads/OneDrive_1_4-4-2023/Program.cs">
     <Files>
-      <File FileName="jurnal_mod7/Program.cs" Line="1" Column="1" />
-      <File FileName="jurnal_mod7/.gitignore" Line="398" Column="10" />
+      <File FileName="jurnal_mod7/Program.cs" Line="49" Column="58" />
+      <File FileName="jurnal_mod7/jurnal7_3_1302194007.json" Line="1" Column="1" />
+      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/GlossaryItem.cs" Line="64" Column="6" />
+      <File FileName="jurnal_mod7/GlossaryItem_1302194007.cs" Line="58" Column="1" />
+      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/Program.cs" Line="36" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jurnal_mod7" expanded="True">
             <Node name="jurnal_mod7" expanded="True">
-              <Node name=".gitignore" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.jurnal__mod7 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.jurnal__mod7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
