@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D507F141-0725-4653-BA38-4E9DAE91482C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jurnal_mod7/.gitignore">
+    <Files>
+      <File FileName="jurnal_mod7/Program.cs" Line="1" Column="1" />
+      <File FileName="jurnal_mod7/.gitignore" Line="398" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jurnal_mod7" expanded="True">
+            <Node name="jurnal_mod7" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.jurnal__mod7 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
