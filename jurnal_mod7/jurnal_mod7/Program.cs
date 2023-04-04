@@ -40,7 +40,21 @@ namespace jurnal_mod7
                 Console.WriteLine("[" + anggotaTim.members[i].nim + "] " + anggotaTim.members[i].firstName + " " + anggotaTim.members[i].lastName
                     + " (" + anggotaTim.members[i].age + ", " + anggotaTim.members[i].gender + ") ");
             }**/
-            
+
+
+            // Soal ke tiga
+            Console.WriteLine("---------------------------------");
+            GlossaryItem_1302194007 glossaryItem = new GlossaryItem_1302194007().ReadJSON();
+            CGlossEntry entry = glossaryItem.glossary.GlossDiv.GlossList.GlossEntry;
+            Console.WriteLine("GlossEntry ID: " + entry.ID);
+            Console.WriteLine("GlossEntry GlossTerm: " + entry.GlossTerm);
+            // etc.
+            foreach (string gSeeAlso in entry.GlossDef.GlossSeeAlso)
+            {
+                Console.WriteLine("GlossSeeAlso: " + gSeeAlso);
+            }
+
+
         }
     }
 }

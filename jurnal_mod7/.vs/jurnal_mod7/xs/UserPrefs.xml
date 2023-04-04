@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{D507F141-0725-4653-BA38-4E9DAE91482C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Downloads/OneDrive_1_4-4-2023/TeamMembers.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Downloads/OneDrive_1_4-4-2023/Program.cs">
     <Files>
-      <File FileName="jurnal_mod7/Program.cs" Line="19" Column="38" />
-      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/Program.cs" Line="16" Column="20" />
-      <File FileName="jurnal_mod7/TeamMembers_1302194007.cs" Line="10" Column="34" />
-      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/TeamMembers.cs" Line="1" Column="1" />
-      <File FileName="jurnal_mod7/DataMahasiswa_1302194007.cs" Line="30" Column="6" />
+      <File FileName="jurnal_mod7/Program.cs" Line="49" Column="58" />
+      <File FileName="jurnal_mod7/jurnal7_3_1302194007.json" Line="1" Column="1" />
+      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/GlossaryItem.cs" Line="64" Column="6" />
+      <File FileName="jurnal_mod7/GlossaryItem_1302194007.cs" Line="58" Column="1" />
+      <File FileName="../../../../../Downloads/OneDrive_1_4-4-2023/Program.cs" Line="36" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jurnal_mod7" expanded="True">
             <Node name="jurnal_mod7" expanded="True">
-              <Node name="TeamMembers_1302194007.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
